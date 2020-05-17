@@ -23,9 +23,8 @@ public class Fill {
         }
         return array;
     }
-
     /**
-     * This method fills array zero and one numbers
+     * This method fills the array with zero and one numbers
      * 1 after 0
      *
      * @param array
@@ -41,32 +40,4 @@ public class Fill {
         }
         return array;
     }
-
-    /**
-     * This method fills array odd numbers
-     *
-     * @param array
-     * @return
-     */
-
-    public static int[] fillOddNumbers(int[] array) {
-        for (int i = 0; i < array.length; i++) {
-                array[i] = (2 * i) + 1;
-        }
-        return array;
-    }
-    /**
-     * This method fills array by arithmetic progression
-     *
-     * @param array
-     * @return
-     */
-
-    public static int[] fillArithmeticProgression(int[] array, int d) {
-        for (int i = 0; i < array.length; i++) {
-                array[i] = 1 + i * d;
-            }
-        return array;
-    }
-
 }
