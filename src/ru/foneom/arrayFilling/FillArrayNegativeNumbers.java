@@ -5,7 +5,7 @@ package ru.foneom.arrayFilling;
  */
 public class FillArrayNegativeNumbers {
     /**
-     * This mthod fills the array with negative numbers divide by 3
+     * This method fills the array with negative numbers divide by 3
      * @param array
      * @return
      */
