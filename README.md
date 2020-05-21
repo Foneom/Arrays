@@ -6,3 +6,6 @@
 
 - [srs](https://github.com/Foneom/Arrays/tree/master/src) - алгоритм решения задачи
 - [test](https://github.com/Foneom/Arrays/tree/master/test) - тесты алгоритмов
+## Дополнительно
+
+Задачи решаются постепенно до момента завершения
