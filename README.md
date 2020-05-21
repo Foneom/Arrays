@@ -3,4 +3,4 @@
 ## Содержание
 
 - [srs](https://github.com/Foneom/Arrays/tree/master/src) - алгоритм решения задачи
-- [test](#test) - тесты алгоритмов
+- [test](https://github.com/Foneom/Arrays/tree/master/test) - тесты алгоритмов
